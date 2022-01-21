@@ -10,7 +10,7 @@ FROM myoung34/github-runner:latest
 #########################################
 # Variables #
 #########################################
-ARG orgname="oregonSDC"
+ARG orgname="gitHubSchool"
 ARG reponame="pub-sec-t3-kSesh1859"
 
 #########################################
